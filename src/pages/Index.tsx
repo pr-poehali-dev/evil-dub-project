@@ -92,9 +92,9 @@ const Index = () => {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Button className="bg-gradient-to-r from-purple-500 to-orange-500 hover:from-purple-600 hover:to-orange-600 text-white px-8 py-3 rounded-full transition-all duration-300 transform hover:scale-105">
               <Icon name="Play" className="mr-2" size={20} />
-              Смотреть трейлеры
+              Начать просмотр
             </Button>
-            <Button variant="outline" className="border-white text-white hover:bg-white hover:text-gray-900 px-8 py-3 rounded-full">
+            <Button variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-gray-900 px-8 py-3 rounded-full transition-all duration-300">
               <Icon name="Users" className="mr-2" size={20} />
               О нашей команде
             </Button>
