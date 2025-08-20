@@ -94,7 +94,7 @@ const Index = () => {
               <Icon name="Play" className="mr-2" size={20} />
               Начать просмотр
             </Button>
-            <Button variant="outline" className="border-2 border-white text-white hover:bg-white hover:text-gray-900 px-8 py-3 rounded-full transition-all duration-300">
+            <Button variant="outline" className="border-2 border-orange-400 text-orange-400 hover:bg-orange-400 hover:text-white px-8 py-3 rounded-full transition-all duration-300">
               <Icon name="Users" className="mr-2" size={20} />
               О нашей команде
             </Button>
